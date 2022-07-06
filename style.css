@@ -1,0 +1,42 @@
+table, td, th {
+    border: 2px solid black;
+    text-align: center;
+    
+}
+th.name, th.question, th.description{
+    width: 33%;
+}
+
+
+
+.grid{
+    background-color: skyblue;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: ;
+    gap:20px;
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+}
+.a {
+    border: 1px solid;
+    background-color: lawngreen;
+
+}
+.b {
+    border: 1px solid;
+    background-color: lawngreen;
+
+}
+.c {
+    border: 1px solid;
+    background-color: lawngreen;
+
+}
+
+.image{
+    width: 300px;
+    height: auto;
+}
+
