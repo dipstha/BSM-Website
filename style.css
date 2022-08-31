@@ -1,3 +1,8 @@
+body {
+    background-color:bisque;
+    margin: auto;
+    
+}
 table, td, th {
     border: 2px solid black;
     text-align: center;
@@ -21,22 +26,25 @@ th.name, th.question, th.description{
 }
 .a {
     border: 1px solid;
-    background-color: lawngreen;
+    background-color: blanchedalmond;
 
 }
 .b {
     border: 1px solid;
-    background-color: lawngreen;
+    background-color: blanchedalmond;
 
 }
 .c {
     border: 1px solid;
-    background-color: lawngreen;
+    background-color: blanchedalmond;
 
 }
 
 .image{
     width: 300px;
     height: auto;
+}
+form {
+    text-align: center;
 }
 
